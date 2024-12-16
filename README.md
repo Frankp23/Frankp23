@@ -1,5 +1,5 @@
 <h1>Frank Perez </h1>
-<img src="https://i.imgur.com/wZYuLNYl.jpg" height="20%" width="20%" />
+
 
 <br />
 
