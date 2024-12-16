@@ -5,7 +5,7 @@
 
 
 <h2>👨‍💻 Cyber Security Projects :</h2>
-- [Mock Security Audit](https://github.com/joshmadakor1/Sentinel-Lab)
+- [Mock Security Audit](https://github.com/Frankp23/MockSecurityAudit/tree/main)
 
 <h2>Certifications</h2>
 
