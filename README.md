@@ -5,7 +5,8 @@
 
 
 <h2>👨‍💻 Cyber Security Projects :</h2>
-- [Mock Security Audit](https://github.com/Frankp23/MockSecurityAudit/tree/main)
+- Mock Security Audit (https://github.com/Frankp23/MockSecurityAudit/tree/main)
+
 
 <h2>Certifications</h2>
 
