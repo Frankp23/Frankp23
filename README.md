@@ -5,6 +5,7 @@
 
 <h2>👨‍💻 Cyber Security Projects :</h2>
 - Mock Security Audit (https://github.com/Frankp23/MockSecurityAudit/tree/main)
+-Mock Penetration Test (https://github.com/Frankp23/Penetration-test-walkthrough/blob/main/README.md)
 
 
 <h2>Certifications</h2>
