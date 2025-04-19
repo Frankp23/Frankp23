@@ -16,4 +16,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-(linkedin)   https://www.linkedin.com/in/frank-perez-aa4450247/
+(linkedin)   https://www.linkedin.com/in/frank-perez23/
