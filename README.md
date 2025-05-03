@@ -23,4 +23,4 @@ I'm an aspiring cybersecurity professional with a passion for protecting systems
 
 <h2> 🤳 Connect with me:</h2>
 
-(linkedin)   https://www.linkedin.com/in/frank-perez23/
+(Linkedin)   https://www.linkedin.com/in/frank-perez23/
