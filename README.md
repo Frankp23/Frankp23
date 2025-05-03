@@ -4,10 +4,15 @@ I'm an aspiring cybersecurity professional with a passion for protecting systems
 <br />
 
 
-<h2>👨‍💻 Cyber Security Projects :</h2>
+<h2>👨‍💻 Mock Security Audit and Pen Test :</h2>
 - Mock Security Audit (https://github.com/Frankp23/MockSecurityAudit/tree/main)
 <br />
 -Mock Penetration Test (https://github.com/Frankp23/Penetration-test-walkthrough/blob/main/README.md)
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 
 <h2>Certifications</h2>
