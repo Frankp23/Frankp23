@@ -12,7 +12,7 @@ I'm an aspiring cybersecurity professional with a passion for protecting systems
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
 
 
 <h2>Certifications</h2>
