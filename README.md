@@ -1,10 +1,11 @@
+My IT and Cybersecurity Project Portfolio 🔐
 
-
+I'm an aspiring cybersecurity professional with a passion for protecting systems, networks, and data. I'm actively learning and building my skills to break into the industry.
 <br />
 
 
 <h2>👨‍💻 Cyber Security Projects :</h2>
--Mock Security Audit (https://github.com/Frankp23/MockSecurityAudit/tree/main)
+- Mock Security Audit (https://github.com/Frankp23/MockSecurityAudit/tree/main)
 <br />
 -Mock Penetration Test (https://github.com/Frankp23/Penetration-test-walkthrough/blob/main/README.md)
 
