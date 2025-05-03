@@ -11,7 +11,7 @@ I'm an aspiring cybersecurity professional with a passion for protecting systems
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/Frankp23/Vulnerability-Management/tree/main)**
 
 
 
