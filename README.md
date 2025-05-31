@@ -16,7 +16,7 @@ I'm an aspiring cybersecurity professional with a passion for protecting systems
 
 <h2>Threat Hunting and Security Operations :</h2>
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Frankp23/Penetration-test-walkthrough/edit/main/README.md)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Frankp23/threat-hunting-scenario-tor/blob/main/README.md)**
 
 
 
