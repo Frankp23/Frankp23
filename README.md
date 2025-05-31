@@ -14,6 +14,13 @@ I'm an aspiring cybersecurity professional with a passion for protecting systems
 
 - **[Vulnerability Management Program Implementation](https://github.com/Frankp23/Vulnerability-Management/tree/main)**
 
+<h2>Threat Hunting and Security Operations :</h2>
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Frankp23/Penetration-test-walkthrough/edit/main/README.md)**
+
+
+
+
 
 
 <h2>📜Certifications</h2>
