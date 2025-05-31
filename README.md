@@ -4,7 +4,7 @@ I'm an aspiring cybersecurity professional with a passion for protecting systems
 <br />
 
 
-<h2>👨‍💻 Mock Security Audit and Pen Test :</h2>
+<h2>👨‍💻 Mock Security Audit and Pen Test </h2>
 
 - **[Mock Security Audit](https://github.com/Frankp23/MockSecurityAudit/tree/main)**
 
@@ -14,7 +14,7 @@ I'm an aspiring cybersecurity professional with a passion for protecting systems
 
 - **[Vulnerability Management Program Implementation](https://github.com/Frankp23/Vulnerability-Management/tree/main)**
 
-<h2>Threat Hunting and Security Operations :</h2>
+<h2>🕵️‍♂️ Threat Hunting and Detection</h2>
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Frankp23/threat-hunting-scenario-tor/blob/main/README.md)**
 
@@ -28,6 +28,6 @@ I'm an aspiring cybersecurity professional with a passion for protecting systems
 - [CompTIA Security+ ce Certification ](https://www.credly.com/badges/a2bade9a-d65f-4800-b092-42f5376390ef/linked_in_profile)
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/5a5e9654-c543-487f-8985-c5130bcd8997/linked_in_profile)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🔗Connect with me</h2>
 
-(Linkedin)   https://www.linkedin.com/in/frank-perez23/
+(LinkedIn)   https://www.linkedin.com/in/frank-perez23/
